@@ -8,7 +8,7 @@ School District Data Analysis Pre and Post Corrections
 >  > >schools_complete.csv   
 >  > >students_complete.csv
 >  >
->  > PyCitySchools.ipynb   
+>  >  
 >  >
 >  > PyCitySchools_Challenge.ipynb     
 >  >     
